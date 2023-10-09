@@ -5,7 +5,7 @@
         "id": "1",
         "photo": "",
         "title": "Casquinha de siri",
-        "price": "16,90",
+        "price": "",
         "info": "(unidade)",
         "description": ""
       },
@@ -13,7 +13,7 @@
         "id": "2",
         "photo": "",
         "title": "Bolinho de siri",
-        "price": "16,90",
+        "price": "",
         "info": "(torpedo unidade)",
         "description": ""
       },
@@ -21,7 +21,7 @@
         "id": "3",
         "photo": "",
         "title": "Lula na chapa",
-        "price": "R$ 69,50",
+        "price": "",
         "info": "",
         "description": ""
       },
@@ -29,7 +29,7 @@
         "id": "4",
         "photo": "",
         "title": "Ostra natural",
-        "price": "R$ 45,00",
+        "price": "",
         "info": "dúzia",
         "description": ""
       },
@@ -37,7 +37,7 @@
         "id": "5",
         "photo": "",
         "title": "Ostra ao bafo",
-        "price": "R$ 45,00",
+        "price": "",
         "info": "dúzia",
         "description": ""
       },
@@ -45,7 +45,7 @@
         "id": "6",
         "photo": "",
         "title": "Ostra gratinada",
-        "price": "R$ 45,00",
+        "price": "",
         "info": "1/2 dúzia",
         "description": ""
       },
@@ -53,7 +53,7 @@
         "id": "7",
         "photo": "",
         "title": "Camarão alho e óleo s/casca",
-        "price": "R$ 119,00",
+        "price": "",
         "info": "",
         "description": ""
       },
